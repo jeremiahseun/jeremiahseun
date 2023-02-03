@@ -17,7 +17,7 @@
   </a>  
 
 - 👋 Hi, I’m Jeremiah ERINOLA
-- 💼 I'm a Mobile Engineer at Hotels.ng
+- 💼 I'm a Lead Mobile Engineer at Impresanera Ltd.
 - I am currently building [Scrolly](https://www.instagram.com/official.scrolly) - An EDTech startup that provides Educational solutions for the African continent.
 - 💬 Talk to me about freelancing opportunities in Flutter and Dart, and Website design in WordPress
 - 👯 I’m looking to collaborate on mobile engineering projects
@@ -59,4 +59,4 @@
 ----------------------------------------------------------------------
 Credit: [jeremiahseun](https://github.com/jeremiahseun)
 
-Last Edited on: 17/08/2022
+Last Edited on: 03/02/2023
