@@ -16,7 +16,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
 
-- 👋 Hi, I’m Jeremiah ERINOLA
+- 👋 Hi, I’m Jeremiah Oluwaseun ERINOLA
 - 💼 I'm a Lead Mobile Engineer at Impresanera Ltd.
 - I am currently building [Scrolly](https://www.instagram.com/official.scrolly) - An EDTech startup that provides Educational solutions for the African continent.
 - 💬 Talk to me about freelancing opportunities in Flutter and Dart and website design in WordPress.
