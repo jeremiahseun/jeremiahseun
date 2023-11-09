@@ -17,7 +17,7 @@
   </a>  
 
 - 👋 Hi, I’m Jeremiah Oluwaseun ERINOLA
-- 💼 I'm a Lead Mobile Engineer at Impresanera Ltd.
+- 💼 I'm a Lead Mobile Engineer.
 - I am currently building [Scrolly](https://www.instagram.com/official.scrolly) - An EDTech startup that provides Educational solutions for the African continent.
 - 💬 Talk to me about freelancing opportunities in Flutter and Dart and website design in WordPress.
 - 🥇 I am currently learning Swift and Swift UI.
@@ -50,7 +50,7 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahseun&" alt="jeremiahseun" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahseun" alt="jeremiahseun" /></p>
 	<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremiahseun&show_icons=true&locale=en" alt="jeremiahseun" /></p>
 </details>
@@ -69,4 +69,4 @@
 ----------------------------------------------------------------------
 Credit: [jeremiahseun](https://github.com/jeremiahseun)
 
-Last Edited on: 19/06/2023
+Last Edited on: 09/11/2023
