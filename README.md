@@ -17,7 +17,7 @@
   </a>  
 
 - 👋 Hi, I’m Jeremiah Oluwaseun ERINOLA.
-- 💼 I'm a Mobile Engineer with 4 years of experience building world-class applications and products for everyday use.
+- 💼 I'm a Mobile Engineer with 5 years of experience building world-class applications and products for everyday use.
 - 💻 I am currently building [Scrolly](https://www.instagram.com/official.scrolly) and a next generation Financial Technology for Africa.
 - 💬 Talk to me about freelancing opportunities in Flutter and Dart.
 - 🥇 I am currently learning Swift and Swift UI.
